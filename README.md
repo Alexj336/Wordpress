@@ -1,2 +1,2 @@
-# Wordpress
-Wordpress site
+# alexj336.github.io/Wordpress/
+Project website
